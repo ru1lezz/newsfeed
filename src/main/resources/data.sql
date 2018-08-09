@@ -1,0 +1,5 @@
+INSERT INTO category VALUES (1, 'Sports')
+INSERT INTO category VALUES (2, 'Movie')
+INSERT INTO category VALUES (3, 'Technology')
+INSERT INTO category VALUES (4, 'Politics')
+INSERT INTO category VALUES (5, 'Weather')
